@@ -1,0 +1,4248 @@
+<?xml version="1.0" encoding="UTF-8"?><dataset name="Fight_RunAway1">
+
+    <frame number="319">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>137</orientation>
+                <box h="35" w="44" xc="162" yc="78"/>
+                <body>
+                    <head evaluation="1" gaze="148" occluded="no" size="4" xc="144" yc="65"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="150" yc="64"/>
+                         <left evaluation="1" occluded="no" xc="144" yc="72"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="154" yc="64"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="146" yc="77"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="181" yc="89"/>
+                         <left evaluation="1" occluded="no" size="3" xc="166" yc="91"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="22" w="22" xc="142" yc="66"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>143</orientation>
+                <box h="41" w="53" xc="157" yc="75"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="320">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>137</orientation>
+                <box h="35" w="44" xc="162" yc="78"/>
+                <body>
+                    <head evaluation="1" gaze="148" occluded="no" size="4" xc="144" yc="65"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="149" yc="64"/>
+                         <left evaluation="1" occluded="no" xc="143" yc="72"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="153" yc="64"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="145" yc="76"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="178" yc="88"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="91"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="22" w="22" xc="142" yc="66"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>143</orientation>
+                <box h="41" w="53" xc="157" yc="75"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="321">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>137</orientation>
+                <box h="35" w="41" xc="159" yc="77"/>
+                <body>
+                    <head evaluation="1" gaze="148" occluded="no" size="3" xc="142" yc="63"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="147" yc="62"/>
+                         <left evaluation="1" occluded="no" xc="141" yc="71"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="152" yc="64"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="144" yc="75"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="176" yc="88"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="91"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="22" w="20" xc="143" yc="66"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>143</orientation>
+                <box h="40" w="47" xc="156" yc="75"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="322">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>137</orientation>
+                <box h="35" w="41" xc="158" yc="77"/>
+                <body>
+                    <head evaluation="1" gaze="148" occluded="no" size="3" xc="141" yc="63"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="146" yc="61"/>
+                         <left evaluation="1" occluded="no" xc="140" yc="70"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="151" yc="63"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="143" yc="74"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="174" yc="86"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="91"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="21" w="19" xc="142" yc="64"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>143</orientation>
+                <box h="41" w="46" xc="156" yc="74"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="323">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>137</orientation>
+                <box h="36" w="44" xc="156" yc="77"/>
+                <body>
+                    <head evaluation="1" gaze="148" occluded="no" size="3" xc="140" yc="62"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="145" yc="60"/>
+                         <left evaluation="1" occluded="no" xc="139" yc="69"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="152" yc="63"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="142" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="174" yc="87"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="91"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="22" w="19" xc="143" yc="64"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>137</orientation>
+                <box h="42" w="44" xc="156" yc="74"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="324">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>137</orientation>
+                <box h="37" w="44" xc="156" yc="76"/>
+                <body>
+                    <head evaluation="1" gaze="148" occluded="no" size="3" xc="138" yc="62"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="60"/>
+                         <left evaluation="1" occluded="no" xc="136" yc="69"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="151" yc="63"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="141" yc="72"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="174" yc="87"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="90"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="27" w="39" xc="153" yc="65"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>132</orientation>
+                <box h="43" w="44" xc="156" yc="73"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="325">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>137</orientation>
+                <box h="38" w="46" xc="155" yc="76"/>
+                <body>
+                    <head evaluation="1" gaze="148" occluded="no" size="3" xc="137" yc="61"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="142" yc="59"/>
+                         <left evaluation="1" occluded="no" xc="136" yc="69"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="149" yc="63"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="141" yc="72"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="174" yc="87"/>
+                         <left evaluation="1" occluded="no" size="3" xc="166" yc="91"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="28" w="42" xc="153" yc="65"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>123</orientation>
+                <box h="44" w="46" xc="155" yc="73"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="326">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>137</orientation>
+                <box h="38" w="44" xc="156" yc="76"/>
+                <body>
+                    <head evaluation="1" gaze="148" occluded="no" size="3" xc="137" yc="60"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="59"/>
+                         <left evaluation="1" occluded="no" xc="136" yc="69"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="149" yc="64"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="141" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="174" yc="86"/>
+                         <left evaluation="1" occluded="no" size="3" xc="166" yc="91"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="28" w="45" xc="151" yc="65"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>113</orientation>
+                <box h="44" w="49" xc="153" yc="73"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="327">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>137</orientation>
+                <box h="38" w="44" xc="156" yc="76"/>
+                <body>
+                    <head evaluation="1" gaze="148" occluded="no" size="3" xc="137" yc="60"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="142" yc="60"/>
+                         <left evaluation="1" occluded="no" xc="137" yc="68"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="149" yc="64"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="141" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="174" yc="85"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="91"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="29" w="46" xc="151" yc="64"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>106</orientation>
+                <box h="45" w="50" xc="153" yc="72"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="328">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>137</orientation>
+                <box h="38" w="42" xc="155" yc="76"/>
+                <body>
+                    <head evaluation="1" gaze="148" occluded="no" size="3" xc="137" yc="60"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="59"/>
+                         <left evaluation="1" occluded="no" xc="137" yc="68"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="149" yc="64"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="142" yc="75"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="173" yc="85"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="92"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="29" w="46" xc="151" yc="64"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>106</orientation>
+                <box h="45" w="48" xc="152" yc="72"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="329">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>137</orientation>
+                <box h="38" w="41" xc="155" yc="76"/>
+                <body>
+                    <head evaluation="1" gaze="148" occluded="no" size="3" xc="138" yc="60"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="60"/>
+                         <left evaluation="1" occluded="no" xc="138" yc="67"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="150" yc="65"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="142" yc="75"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="172" yc="85"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="92"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="28" w="39" xc="154" yc="65"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>78</orientation>
+                <box h="44" w="41" xc="155" yc="73"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="330">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="38" w="41" xc="155" yc="76"/>
+                <body>
+                    <head evaluation="1" gaze="129" occluded="no" size="3" xc="138" yc="60"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="59"/>
+                         <left evaluation="1" occluded="no" xc="137" yc="67"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="151" yc="66"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="142" yc="75"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="172" yc="85"/>
+                         <left evaluation="1" occluded="no" size="3" xc="164" yc="92"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="28" w="34" xc="157" yc="65"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>65</orientation>
+                <box h="44" w="41" xc="155" yc="73"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="331">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="39" w="41" xc="155" yc="75"/>
+                <body>
+                    <head evaluation="1" gaze="129" occluded="no" size="3" xc="139" yc="59"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="58"/>
+                         <left evaluation="1" occluded="no" xc="138" yc="66"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="152" yc="67"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="142" yc="75"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="172" yc="85"/>
+                         <left evaluation="1" occluded="no" size="3" xc="164" yc="92"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="28" w="32" xc="158" yc="65"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>65</orientation>
+                <box h="44" w="41" xc="155" yc="73"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="332">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="42" w="40" xc="156" yc="74"/>
+                <body>
+                    <head evaluation="1" gaze="129" occluded="no" size="3" xc="140" yc="60"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="145" yc="59"/>
+                         <left evaluation="1" occluded="no" xc="139" yc="67"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="yes" size="1" xc="152" yc="71"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="142" yc="72"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="173" yc="86"/>
+                         <left evaluation="1" occluded="no" size="3" xc="164" yc="92"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="27" w="30" xc="160" yc="65"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>65</orientation>
+                <box h="43" w="40" xc="156" yc="73"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="333">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="43" w="41" xc="157" yc="74"/>
+                <body>
+                    <head evaluation="1" gaze="129" occluded="no" size="3" xc="141" yc="60"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="144" yc="61"/>
+                         <left evaluation="1" occluded="no" xc="139" yc="67"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="150" yc="76"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="142" yc="71"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="173" yc="86"/>
+                         <left evaluation="1" occluded="no" size="3" xc="164" yc="92"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="30" w="31" xc="159" yc="67"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>65</orientation>
+                <box h="44" w="41" xc="157" yc="74"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="334">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="40" w="42" xc="158" yc="76"/>
+                <body>
+                    <head evaluation="1" gaze="129" occluded="no" size="3" xc="140" yc="60"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="144" yc="60"/>
+                         <left evaluation="1" occluded="no" xc="140" yc="67"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="149" yc="76"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="172" yc="86"/>
+                         <left evaluation="1" occluded="no" size="3" xc="166" yc="93"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="31" w="31" xc="159" yc="68"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>54</orientation>
+                <box h="43" w="42" xc="158" yc="74"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="335">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="40" w="41" xc="157" yc="76"/>
+                <body>
+                    <head evaluation="1" gaze="129" occluded="no" size="3" xc="141" yc="61"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="61"/>
+                         <left evaluation="1" occluded="no" xc="141" yc="68"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="150" yc="76"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="173" yc="89"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="93"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="31" w="34" xc="161" yc="68"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>54</orientation>
+                <box h="43" w="41" xc="157" yc="74"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="336">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="40" w="41" xc="157" yc="76"/>
+                <body>
+                    <head evaluation="1" gaze="129" occluded="no" size="3" xc="141" yc="61"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="yes" xc="143" yc="61"/>
+                         <left evaluation="1" occluded="no" xc="142" yc="68"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="151" yc="76"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="174" yc="90"/>
+                         <left evaluation="1" occluded="no" size="3" xc="164" yc="92"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="30" w="38" xc="163" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>54</orientation>
+                <box h="42" w="45" xc="159" yc="75"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="337">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="40" w="41" xc="157" yc="76"/>
+                <body>
+                    <head evaluation="1" gaze="129" occluded="no" size="3" xc="140" yc="60"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="yes" xc="142" yc="67"/>
+                         <left evaluation="1" occluded="no" xc="139" yc="62"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="2" xc="152" yc="75"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="174" yc="90"/>
+                         <left evaluation="1" occluded="no" size="3" xc="164" yc="92"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="29" w="42" xc="165" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>54</orientation>
+                <box h="41" w="49" xc="161" yc="75"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="338">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="40" w="41" xc="157" yc="77"/>
+                <body>
+                    <head evaluation="1" gaze="49" occluded="no" size="4" xc="141" yc="61"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="yes" xc="145" yc="67"/>
+                         <left evaluation="1" occluded="no" xc="138" yc="67"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="2" xc="153" yc="74"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="173" yc="90"/>
+                         <left evaluation="1" occluded="no" size="3" xc="163" yc="93"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="28" w="43" xc="165" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>54</orientation>
+                <box h="42" w="50" xc="162" yc="76"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="339">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="40" w="42" xc="158" yc="77"/>
+                <body>
+                    <head evaluation="1" gaze="32" occluded="no" size="3" xc="142" yc="61"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="yes" xc="145" yc="66"/>
+                         <left evaluation="1" occluded="no" xc="139" yc="68"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="153" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="173" yc="90"/>
+                         <left evaluation="1" occluded="no" size="3" xc="163" yc="93"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="27" w="41" xc="165" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>54</orientation>
+                <box h="41" w="49" xc="161" yc="76"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="340">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="40" w="41" xc="158" yc="77"/>
+                <body>
+                    <head evaluation="1" gaze="32" occluded="no" size="4" xc="142" yc="61"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="yes" xc="146" yc="65"/>
+                         <left evaluation="1" occluded="no" xc="140" yc="69"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="153" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="173" yc="90"/>
+                         <left evaluation="1" occluded="no" size="3" xc="164" yc="93"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="26" w="40" xc="167" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="40" w="49" xc="162" yc="77"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="341">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="40" w="41" xc="158" yc="77"/>
+                <body>
+                    <head evaluation="1" gaze="27" occluded="no" size="3" xc="142" yc="61"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="yes" xc="145" yc="65"/>
+                         <left evaluation="1" occluded="no" xc="141" yc="68"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="154" yc="72"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="175" yc="89"/>
+                         <left evaluation="1" occluded="no" size="3" xc="164" yc="93"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="25" w="38" xc="168" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="40" w="49" xc="162" yc="77"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="342">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="39" w="44" xc="160" yc="77"/>
+                <body>
+                    <head evaluation="1" gaze="27" occluded="no" size="4" xc="142" yc="62"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="yes" xc="145" yc="68"/>
+                         <left evaluation="1" occluded="no" xc="142" yc="70"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="155" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="178" yc="90"/>
+                         <left evaluation="1" occluded="no" size="3" xc="164" yc="93"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="25" w="37" xc="167" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="39" w="48" xc="162" yc="77"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="343">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="38" w="45" xc="160" yc="78"/>
+                <body>
+                    <head evaluation="1" gaze="27" occluded="no" size="4" xc="143" yc="63"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="yes" xc="146" yc="69"/>
+                         <left evaluation="1" occluded="no" xc="142" yc="72"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="155" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="180" yc="90"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="25" w="35" xc="168" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="39" w="48" xc="162" yc="77"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="344">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="37" w="45" xc="161" yc="78"/>
+                <body>
+                    <head evaluation="1" gaze="27" occluded="no" size="4" xc="143" yc="64"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="yes" xc="147" yc="69"/>
+                         <left evaluation="1" occluded="no" xc="143" yc="73"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="2" xc="156" yc="74"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="180" yc="90"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="25" w="36" xc="169" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="39" w="48" xc="163" yc="77"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="345">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="37" w="45" xc="161" yc="78"/>
+                <body>
+                    <head evaluation="1" gaze="27" occluded="no" size="4" xc="144" yc="65"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="yes" xc="147" yc="69"/>
+                         <left evaluation="1" occluded="no" xc="144" yc="72"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="156" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="180" yc="90"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="23" w="35" xc="169" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="39" w="48" xc="163" yc="77"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="346">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="37" w="43" xc="161" yc="78"/>
+                <body>
+                    <head evaluation="1" gaze="27" occluded="no" size="4" xc="144" yc="65"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="146" yc="72"/>
+                         <left evaluation="1" occluded="yes" xc="145" yc="69"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="155" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="180" yc="90"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>142</orientation>
+                <box h="22" w="35" xc="169" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="39" w="47" xc="163" yc="77"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="347">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="37" w="42" xc="162" yc="78"/>
+                <body>
+                    <head evaluation="1" gaze="27" occluded="no" size="4" xc="145" yc="64"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="146" yc="72"/>
+                         <left evaluation="1" occluded="yes" xc="145" yc="69"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="156" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="180" yc="90"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>150</orientation>
+                <box h="23" w="35" xc="169" yc="68"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="40" w="46" xc="164" yc="77"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="348">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="38" w="41" xc="162" yc="78"/>
+                <body>
+                    <head evaluation="1" gaze="27" occluded="no" size="4" xc="146" yc="64"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="147" yc="72"/>
+                         <left evaluation="1" occluded="yes" xc="145" yc="68"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="156" yc="74"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="177" yc="91"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>150</orientation>
+                <box h="23" w="35" xc="169" yc="68"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="40" w="45" xc="164" yc="77"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="349">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="37" w="41" xc="162" yc="78"/>
+                <body>
+                    <head evaluation="1" gaze="27" occluded="no" size="4" xc="146" yc="64"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="147" yc="73"/>
+                         <left evaluation="1" occluded="yes" xc="145" yc="68"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="156" yc="75"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="177" yc="93"/>
+                         <left evaluation="1" occluded="no" size="3" xc="165" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>150</orientation>
+                <box h="23" w="34" xc="171" yc="68"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="40" w="46" xc="165" yc="77"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="350">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="41" w="41" xc="162" yc="80"/>
+                <body>
+                    <head evaluation="1" gaze="27" occluded="no" size="4" xc="146" yc="64"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="149" yc="72"/>
+                         <left evaluation="1" occluded="yes" xc="145" yc="69"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="155" yc="76"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="179" yc="97"/>
+                         <left evaluation="1" occluded="no" size="3" xc="164" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>155</orientation>
+                <box h="23" w="35" xc="171" yc="68"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="44" w="47" xc="165" yc="79"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="351">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="43" w="38" xc="161" yc="82"/>
+                <body>
+                    <head evaluation="1" gaze="27" occluded="no" size="4" xc="147" yc="65"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="150" yc="72"/>
+                         <left evaluation="1" occluded="no" xc="144" yc="71"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="156" yc="77"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="4" xc="174" yc="99"/>
+                         <left evaluation="1" occluded="no" size="3" xc="163" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>155</orientation>
+                <box h="23" w="38" xc="173" yc="68"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="47" w="50" xc="167" yc="80"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="352">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="45" w="37" xc="159" yc="84"/>
+                <body>
+                    <head evaluation="1" gaze="10" occluded="no" size="4" xc="147" yc="66"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="151" yc="72"/>
+                         <left evaluation="1" occluded="no" xc="144" yc="73"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="157" yc="78"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="171" yc="102"/>
+                         <left evaluation="1" occluded="no" size="3" xc="163" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>155</orientation>
+                <box h="24" w="40" xc="174" yc="68"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="51" w="53" xc="167" yc="81"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="353">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="47" w="37" xc="159" yc="84"/>
+                <body>
+                    <head evaluation="1" gaze="10" occluded="no" size="4" xc="148" yc="67"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="151" yc="73"/>
+                         <left evaluation="1" occluded="no" xc="144" yc="74"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="156" yc="79"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="171" yc="104"/>
+                         <left evaluation="1" occluded="no" size="3" xc="162" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>155</orientation>
+                <box h="24" w="40" xc="175" yc="68"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="52" w="54" xc="168" yc="82"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="354">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="45" w="37" xc="159" yc="86"/>
+                <body>
+                    <head evaluation="1" gaze="10" occluded="no" size="4" xc="148" yc="68"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="151" yc="74"/>
+                         <left evaluation="1" occluded="no" xc="144" yc="76"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="156" yc="80"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="170" yc="104"/>
+                         <left evaluation="1" occluded="no" size="3" xc="162" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>155</orientation>
+                <box h="25" w="42" xc="176" yc="68"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="53" w="56" xc="169" yc="82"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="355">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="44" w="36" xc="160" yc="87"/>
+                <body>
+                    <head evaluation="1" gaze="10" occluded="no" size="4" xc="147" yc="69"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="152" yc="76"/>
+                         <left evaluation="1" occluded="no" xc="144" yc="77"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="155" yc="80"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="170" yc="104"/>
+                         <left evaluation="1" occluded="no" size="3" xc="162" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>155</orientation>
+                <box h="26" w="44" xc="175" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="53" w="55" xc="169" yc="82"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="356">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="43" w="35" xc="160" yc="87"/>
+                <body>
+                    <head evaluation="1" gaze="10" occluded="no" size="4" xc="147" yc="70"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="150" yc="77"/>
+                         <left evaluation="1" occluded="no" xc="145" yc="76"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="157" yc="80"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="170" yc="104"/>
+                         <left evaluation="1" occluded="no" size="3" xc="162" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="26" w="44" xc="175" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="53" w="54" xc="170" yc="82"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="357">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="43" w="36" xc="159" yc="87"/>
+                <body>
+                    <head evaluation="1" gaze="10" occluded="no" size="4" xc="146" yc="70"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="148" yc="76"/>
+                         <left evaluation="1" occluded="no" xc="144" yc="74"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="154" yc="79"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="170" yc="104"/>
+                         <left evaluation="1" occluded="no" size="3" xc="162" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="26" w="47" xc="173" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="53" w="56" xc="169" yc="82"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="358">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="43" w="37" xc="158" yc="87"/>
+                <body>
+                    <head evaluation="1" gaze="10" occluded="no" size="4" xc="145" yc="70"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="145" yc="78"/>
+                         <left evaluation="1" occluded="yes" xc="144" yc="73"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="155" yc="77"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="173" yc="104"/>
+                         <left evaluation="1" occluded="no" size="3" xc="162" yc="93"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="27" w="47" xc="173" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="53" w="57" xc="168" yc="82"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="359">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="41" w="38" xc="159" yc="86"/>
+                <body>
+                    <head evaluation="1" gaze="10" occluded="no" size="4" xc="144" yc="70"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="144" yc="79"/>
+                         <left evaluation="1" occluded="yes" xc="144" yc="73"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="155" yc="76"/>
+                         <left evaluation="1" occluded="no" size="1" xc="153" yc="71"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="173" yc="104"/>
+                         <left evaluation="1" occluded="no" size="3" xc="163" yc="93"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="27" w="48" xc="174" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="51" w="58" xc="169" yc="81"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="360">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="42" w="36" xc="158" yc="86"/>
+                <body>
+                    <head evaluation="1" gaze="351" occluded="no" size="4" xc="144" yc="69"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="144" yc="79"/>
+                         <left evaluation="1" occluded="yes" xc="144" yc="72"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="151" yc="80"/>
+                         <left evaluation="1" occluded="no" size="1" xc="152" yc="71"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="173" yc="104"/>
+                         <left evaluation="1" occluded="no" size="2" xc="164" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="27" w="47" xc="174" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="51" w="58" xc="169" yc="81"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="361">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="42" w="34" xc="156" yc="86"/>
+                <body>
+                    <head evaluation="1" gaze="351" occluded="no" size="4" xc="143" yc="69"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="80"/>
+                         <left evaluation="1" occluded="yes" xc="145" yc="72"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="147" yc="85"/>
+                         <left evaluation="1" occluded="no" size="1" xc="155" yc="70"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="170" yc="104"/>
+                         <left evaluation="1" occluded="no" size="3" xc="164" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="27" w="48" xc="175" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="51" w="60" xc="169" yc="81"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="362">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>134</orientation>
+                <box h="41" w="33" xc="155" yc="86"/>
+                <body>
+                    <head evaluation="1" gaze="341" occluded="no" size="4" xc="143" yc="70"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="142" yc="79"/>
+                         <left evaluation="1" occluded="yes" xc="146" yc="71"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="146" yc="86"/>
+                         <left evaluation="1" occluded="no" size="1" xc="155" yc="71"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="168" yc="104"/>
+                         <left evaluation="1" occluded="no" size="2" xc="164" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="26" w="50" xc="174" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="50" w="60" xc="169" yc="82"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="363">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>126</orientation>
+                <box h="41" w="33" xc="155" yc="86"/>
+                <body>
+                    <head evaluation="1" gaze="321" occluded="no" size="4" xc="143" yc="70"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="142" yc="78"/>
+                         <left evaluation="1" occluded="no" xc="146" yc="71"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="145" yc="87"/>
+                         <left evaluation="1" occluded="no" size="1" xc="155" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="167" yc="104"/>
+                         <left evaluation="1" occluded="no" size="2" xc="164" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="26" w="51" xc="173" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="50" w="60" xc="169" yc="82"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="364">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>126</orientation>
+                <box h="41" w="32" xc="155" yc="87"/>
+                <body>
+                    <head evaluation="1" gaze="321" occluded="no" size="4" xc="143" yc="71"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="78"/>
+                         <left evaluation="1" occluded="no" xc="147" yc="73"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="145" yc="88"/>
+                         <left evaluation="1" occluded="no" size="1" xc="159" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="167" yc="104"/>
+                         <left evaluation="1" occluded="no" size="2" xc="164" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="26" w="51" xc="173" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="51" w="60" xc="169" yc="82"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="365">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>126</orientation>
+                <box h="40" w="32" xc="155" yc="88"/>
+                <body>
+                    <head evaluation="1" gaze="308" occluded="no" size="4" xc="143" yc="72"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="142" yc="80"/>
+                         <left evaluation="1" occluded="no" xc="146" yc="74"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="145" yc="88"/>
+                         <left evaluation="1" occluded="no" size="1" xc="158" yc="74"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="167" yc="104"/>
+                         <left evaluation="1" occluded="no" size="2" xc="164" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="25" w="51" xc="173" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="50" w="60" xc="169" yc="83"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="366">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>126</orientation>
+                <box h="39" w="32" xc="155" yc="88"/>
+                <body>
+                    <head evaluation="1" gaze="341" occluded="no" size="3" xc="143" yc="73"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="81"/>
+                         <left evaluation="1" occluded="no" xc="146" yc="74"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="147" yc="88"/>
+                         <left evaluation="1" occluded="no" size="1" xc="158" yc="73"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="167" yc="104"/>
+                         <left evaluation="1" occluded="no" size="3" xc="164" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="25" w="51" xc="173" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="50" w="60" xc="169" yc="83"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="367">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>126</orientation>
+                <box h="39" w="32" xc="155" yc="88"/>
+                <body>
+                    <head evaluation="1" gaze="341" occluded="no" size="3" xc="143" yc="73"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="142" yc="81"/>
+                         <left evaluation="1" occluded="no" xc="144" yc="74"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="150" yc="88"/>
+                         <left evaluation="1" occluded="no" size="1" xc="156" yc="74"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="167" yc="104"/>
+                         <left evaluation="1" occluded="no" size="2" xc="163" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="25" w="51" xc="173" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="50" w="60" xc="169" yc="83"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="368">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>126</orientation>
+                <box h="39" w="34" xc="154" yc="88"/>
+                <body>
+                    <head evaluation="1" gaze="27" occluded="no" size="4" xc="142" yc="73"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="142" yc="80"/>
+                         <left evaluation="1" occluded="yes" xc="144" yc="74"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="151" yc="87"/>
+                         <left evaluation="1" occluded="no" size="1" xc="154" yc="75"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="167" yc="104"/>
+                         <left evaluation="1" occluded="no" size="2" xc="163" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>160</orientation>
+                <box h="25" w="52" xc="173" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="50" w="62" xc="168" yc="83"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="369">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>126</orientation>
+                <box h="39" w="35" xc="153" yc="88"/>
+                <body>
+                    <head evaluation="1" gaze="29" occluded="no" size="4" xc="140" yc="73"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="141" yc="80"/>
+                         <left evaluation="1" occluded="yes" xc="142" yc="74"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="150" yc="87"/>
+                         <left evaluation="1" occluded="no" size="1" xc="151" yc="76"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="166" yc="104"/>
+                         <left evaluation="1" occluded="no" size="2" xc="162" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>162</orientation>
+                <box h="24" w="52" xc="173" yc="71"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="49" w="63" xc="167" yc="83"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="370">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>126</orientation>
+                <box h="40" w="36" xc="153" yc="88"/>
+                <body>
+                    <head evaluation="1" gaze="29" occluded="no" size="4" xc="139" yc="72"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="140" yc="80"/>
+                         <left evaluation="1" occluded="yes" xc="140" yc="74"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="157" yc="81"/>
+                         <left evaluation="1" occluded="no" size="1" xc="154" yc="78"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="166" yc="103"/>
+                         <left evaluation="1" occluded="no" size="2" xc="162" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>162</orientation>
+                <box h="24" w="52" xc="173" yc="71"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="49" w="64" xc="167" yc="83"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="371">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>126</orientation>
+                <box h="39" w="37" xc="152" yc="87"/>
+                <body>
+                    <head evaluation="1" gaze="29" occluded="no" size="4" xc="138" yc="72"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="140" yc="80"/>
+                         <left evaluation="1" occluded="yes" xc="139" yc="74"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="158" yc="79"/>
+                         <left evaluation="1" occluded="no" size="1" xc="151" yc="78"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="166" yc="102"/>
+                         <left evaluation="1" occluded="no" size="2" xc="161" yc="94"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>162</orientation>
+                <box h="23" w="52" xc="172" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="49" w="64" xc="166" yc="82"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="372">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>126</orientation>
+                <box h="38" w="39" xc="152" yc="88"/>
+                <body>
+                    <head evaluation="1" gaze="29" occluded="no" size="4" xc="137" yc="73"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="139" yc="80"/>
+                         <left evaluation="1" occluded="yes" xc="138" yc="74"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="158" yc="76"/>
+                         <left evaluation="1" occluded="no" size="1" xc="149" yc="76"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="166" yc="102"/>
+                         <left evaluation="1" occluded="no" size="2" xc="160" yc="95"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>162</orientation>
+                <box h="21" w="51" xc="169" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="48" w="62" xc="164" yc="83"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="373">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>136</orientation>
+                <box h="39" w="42" xc="155" yc="88"/>
+                <body>
+                    <head evaluation="1" gaze="33" occluded="no" size="4" xc="138" yc="73"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="79"/>
+                         <left evaluation="1" occluded="no" xc="137" yc="78"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="155" yc="75"/>
+                         <left evaluation="1" occluded="no" size="1" xc="148" yc="75"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="168" yc="102"/>
+                         <left evaluation="1" occluded="no" size="2" xc="161" yc="97"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>162</orientation>
+                <box h="21" w="46" xc="167" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">running</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="49" w="56" xc="162" yc="83"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="374">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>136</orientation>
+                <box h="39" w="45" xc="155" yc="89"/>
+                <body>
+                    <head evaluation="1" gaze="33" occluded="no" size="4" xc="138" yc="74"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="78"/>
+                         <left evaluation="1" occluded="no" xc="136" yc="82"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="153" yc="76"/>
+                         <left evaluation="1" occluded="no" size="1" xc="146" yc="77"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="170" yc="103"/>
+                         <left evaluation="1" occluded="no" size="2" xc="160" yc="98"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>162</orientation>
+                <box h="23" w="45" xc="164" yc="69"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">running</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>46</orientation>
+                <box h="51" w="54" xc="160" yc="83"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="375">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>136</orientation>
+                <box h="38" w="45" xc="155" yc="90"/>
+                <body>
+                    <head evaluation="1" gaze="49" occluded="no" size="4" xc="139" yc="76"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="145" yc="80"/>
+                         <left evaluation="1" occluded="no" xc="137" yc="84"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="152" yc="77"/>
+                         <left evaluation="1" occluded="yes" size="1" xc="141" yc="81"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="173" yc="104"/>
+                         <left evaluation="1" occluded="no" size="2" xc="158" yc="99"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>162</orientation>
+                <box h="25" w="46" xc="164" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">running</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>51</orientation>
+                <box h="51" w="54" xc="160" yc="83"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="376">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>136</orientation>
+                <box h="39" w="47" xc="155" yc="90"/>
+                <body>
+                    <head evaluation="1" gaze="35" occluded="no" size="4" xc="139" yc="77"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="145" yc="81"/>
+                         <left evaluation="1" occluded="no" xc="138" yc="85"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="151" yc="79"/>
+                         <left evaluation="1" occluded="no" size="1" xc="134" yc="99"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="175" yc="106"/>
+                         <left evaluation="1" occluded="no" size="3" xc="158" yc="101"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>162</orientation>
+                <box h="26" w="46" xc="162" yc="71"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">running</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>59</orientation>
+                <box h="52" w="53" xc="158" yc="84"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="377">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>136</orientation>
+                <box h="35" w="47" xc="155" yc="92"/>
+                <body>
+                    <head evaluation="1" gaze="35" occluded="no" size="3" xc="139" yc="79"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="145" yc="83"/>
+                         <left evaluation="1" occluded="no" xc="138" yc="87"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="149" yc="81"/>
+                         <left evaluation="1" occluded="no" size="1" xc="134" yc="105"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="174" yc="106"/>
+                         <left evaluation="1" occluded="no" size="2" xc="158" yc="103"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>162</orientation>
+                <box h="26" w="47" xc="159" yc="71"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">running</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>59</orientation>
+                <box h="52" w="51" xc="157" yc="84"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="378">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>136</orientation>
+                <box h="34" w="45" xc="156" yc="93"/>
+                <body>
+                    <head evaluation="1" gaze="45" occluded="no" size="4" xc="138" yc="80"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="144" yc="82"/>
+                         <left evaluation="1" occluded="no" xc="138" yc="89"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="148" yc="80"/>
+                         <left evaluation="1" occluded="no" size="1" xc="138" yc="107"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="174" yc="106"/>
+                         <left evaluation="1" occluded="no" size="3" xc="158" yc="106"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>162</orientation>
+                <box h="24" w="46" xc="157" yc="70"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">running</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>59</orientation>
+                <box h="52" w="46" xc="157" yc="84"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="379">
+
+        <objectlist>
+
+            <object id="6">
+                <orientation>136</orientation>
+                <box h="34" w="47" xc="155" yc="93"/>
+                <body>
+                    <head evaluation="1" gaze="54" occluded="no" size="4" xc="136" yc="80"/>
+                    <shoulders>
+                         <right evaluation="1" occluded="no" xc="143" yc="82"/>
+                         <left evaluation="1" occluded="no" xc="137" yc="90"/>
+                    </shoulders>
+                    <hands>
+                         <right evaluation="1" occluded="no" size="1" xc="145" yc="80"/>
+                         <left evaluation="1" occluded="no" size="2" xc="142" yc="108"/>
+                    </hands>
+                    <feet>
+                         <right evaluation="1" occluded="no" size="3" xc="175" yc="106"/>
+                         <left evaluation="1" occluded="no" size="2" xc="158" yc="106"/>
+                    </feet>
+                </body>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="7">
+                <orientation>162</orientation>
+                <box h="22" w="43" xc="153" yc="71"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">running</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>59</orientation>
+                <box h="50" w="47" xc="155" yc="85"/>
+                <members>6,7</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">fighters</role>
+                        <context evaluation="1.0">fighting</context>
+                        <situation evaluation="1.0">fighting</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+</dataset>
