@@ -19,9 +19,9 @@ output_dir = "/home/samx/Documents/PROJECTS/caviar-annotation-to-yolo-annotation
 
 file_list = []
 file_list.append(input_caviar_resting1_file_path)
-# file_list.append(input_caviar_resting2_file_path)
-# file_list.append(input_caviar_resting3_file_path)
-# file_list.append(input_caviar_resting4_file_path)
+file_list.append(input_caviar_resting2_file_path)
+file_list.append(input_caviar_resting3_file_path)
+file_list.append(input_caviar_resting4_file_path)
 
 for file_path in file_list:
     # parse an xml file by name

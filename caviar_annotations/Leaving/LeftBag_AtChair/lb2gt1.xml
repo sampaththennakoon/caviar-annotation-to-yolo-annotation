@@ -1,0 +1,3877 @@
+<?xml version="1.0" encoding="UTF-8"?><dataset name="LeftBag_AtChair">
+
+    <frame number="490">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="27" w="29" xc="71" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>114</orientation>
+                <box h="28" w="29" xc="71" yc="113"/>
+                <members>4,6</members>
+                <appearance>appear</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="0.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="491">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="27" w="29" xc="72" yc="111"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>114</orientation>
+                <box h="29" w="29" xc="72" yc="112"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="492">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="28" w="28" xc="73" yc="111"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>114</orientation>
+                <box h="30" w="28" xc="73" yc="112"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="493">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="28" w="28" xc="73" yc="110"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>97</orientation>
+                <box h="31" w="28" xc="73" yc="111"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="494">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="28" w="27" xc="73" yc="109"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>97</orientation>
+                <box h="32" w="27" xc="73" yc="111"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="495">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="27" w="27" xc="73" yc="107"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>97</orientation>
+                <box h="33" w="27" xc="73" yc="110"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="496">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="26" w="27" xc="73" yc="106"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>97</orientation>
+                <box h="34" w="27" xc="73" yc="110"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="497">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="24" w="27" xc="73" yc="104"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>97</orientation>
+                <box h="35" w="27" xc="73" yc="109"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="498">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="23" w="27" xc="73" yc="102"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>97</orientation>
+                <box h="36" w="27" xc="73" yc="109"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="499">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="22" w="27" xc="74" yc="101"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>97</orientation>
+                <box h="37" w="27" xc="74" yc="108"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="500">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="22" w="26" xc="75" yc="101"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>97</orientation>
+                <box h="37" w="26" xc="75" yc="108"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="501">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="23" w="29" xc="76" yc="100"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>97</orientation>
+                <box h="38" w="29" xc="76" yc="108"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="502">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="24" w="30" xc="78" yc="100"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>83</orientation>
+                <box h="39" w="30" xc="78" yc="107"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="503">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="25" w="31" xc="79" yc="99"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>83</orientation>
+                <box h="40" w="31" xc="79" yc="107"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="504">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="26" w="31" xc="80" yc="99"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>83</orientation>
+                <box h="41" w="31" xc="80" yc="106"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="505">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="27" w="31" xc="81" yc="98"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>83</orientation>
+                <box h="42" w="31" xc="81" yc="106"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="506">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="26" w="30" xc="82" yc="98"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>72</orientation>
+                <box h="42" w="30" xc="82" yc="106"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="507">
+
+        <objectlist>
+
+            <object id="4">
+                <orientation>154</orientation>
+                <box h="26" w="30" xc="82" yc="97"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="0">
+                <orientation>72</orientation>
+                <box h="43" w="30" xc="82" yc="105"/>
+                <members>4,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="874">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="20" w="32" xc="75" yc="108"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>73</orientation>
+                <box h="29" w="32" xc="75" yc="112"/>
+                <members>5,6</members>
+                <appearance>appear</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="0.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="875">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="19" w="32" xc="75" yc="108"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>73</orientation>
+                <box h="28" w="32" xc="75" yc="113"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="876">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="19" w="32" xc="75" yc="109"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>73</orientation>
+                <box h="27" w="32" xc="75" yc="113"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="877">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="18" w="33" xc="74" yc="110"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>73</orientation>
+                <box h="26" w="33" xc="74" yc="114"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="878">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="18" w="33" xc="74" yc="111"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>73</orientation>
+                <box h="25" w="33" xc="74" yc="114"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="879">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="33" xc="73" yc="111"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>73</orientation>
+                <box h="24" w="33" xc="73" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="880">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="33" xc="72" yc="111"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>73</orientation>
+                <box h="24" w="33" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="881">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="33" xc="72" yc="111"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>79</orientation>
+                <box h="24" w="33" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="882">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="16" w="32" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>79</orientation>
+                <box h="23" w="32" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="883">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="16" w="32" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>79</orientation>
+                <box h="23" w="32" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="884">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="16" w="32" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>79</orientation>
+                <box h="23" w="32" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="885">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="16" w="32" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>79</orientation>
+                <box h="23" w="32" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="886">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="16" w="32" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>79</orientation>
+                <box h="23" w="32" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="887">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="16" w="32" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>79</orientation>
+                <box h="23" w="32" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="888">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="32" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>79</orientation>
+                <box h="23" w="32" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="889">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="32" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="23" w="32" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="890">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="32" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="23" w="32" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="891">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="32" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="23" w="32" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="892">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="32" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="23" w="32" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="893">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="33" xc="71" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="23" w="33" xc="71" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="894">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="33" xc="71" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="23" w="33" xc="71" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="895">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="18" w="33" xc="71" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="23" w="33" xc="71" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="896">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="18" w="33" xc="71" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="23" w="33" xc="71" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="897">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="33" xc="71" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="23" w="33" xc="71" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="898">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="15" w="34" xc="71" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="21" w="34" xc="71" yc="116"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="899">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="15" w="34" xc="71" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="21" w="34" xc="71" yc="116"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="900">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="16" w="35" xc="70" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="72" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="22" w="35" xc="70" yc="116"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="901">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="16" w="34" xc="71" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="11" xc="71" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>81</orientation>
+                <box h="22" w="34" xc="71" yc="116"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="902">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="15" w="34" xc="71" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="8" w="10" xc="71" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>90</orientation>
+                <box h="21" w="34" xc="71" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="903">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="14" w="33" xc="71" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="8" w="10" xc="71" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>90</orientation>
+                <box h="20" w="33" xc="71" yc="116"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="904">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="14" w="33" xc="71" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="8" w="10" xc="71" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>90</orientation>
+                <box h="20" w="33" xc="71" yc="116"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="905">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="14" w="33" xc="71" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="10" xc="71" yc="121"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>90</orientation>
+                <box h="20" w="33" xc="71" yc="116"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="906">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="14" w="33" xc="71" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="10" xc="71" yc="121"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>90</orientation>
+                <box h="20" w="33" xc="71" yc="116"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="907">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="14" w="32" xc="72" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="10" xc="71" yc="121"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>90</orientation>
+                <box h="20" w="32" xc="72" yc="116"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="908">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="15" w="32" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="10" xc="71" yc="121"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>90</orientation>
+                <box h="21" w="32" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="909">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="15" w="31" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="10" xc="71" yc="121"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>90</orientation>
+                <box h="21" w="31" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="910">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="15" w="31" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="10" xc="71" yc="121"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>90</orientation>
+                <box h="21" w="31" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="911">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="15" w="31" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="9" xc="71" yc="121"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>94</orientation>
+                <box h="21" w="31" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="912">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="31" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="9" xc="72" yc="121"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>100</orientation>
+                <box h="22" w="31" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="913">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="31" xc="72" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="9" w="9" xc="72" yc="121"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>102</orientation>
+                <box h="22" w="31" xc="72" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="914">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="17" w="30" xc="73" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="8" w="9" xc="73" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>102</orientation>
+                <box h="22" w="30" xc="73" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="915">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="19" w="29" xc="73" yc="112"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="8" w="9" xc="73" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>108</orientation>
+                <box h="23" w="29" xc="73" yc="114"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="916">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="20" w="30" xc="73" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="8" w="9" xc="74" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>101</orientation>
+                <box h="23" w="30" xc="73" yc="114"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="917">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="21" w="29" xc="73" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="8" w="8" xc="75" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>104</orientation>
+                <box h="23" w="29" xc="73" yc="114"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="918">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="22" w="29" xc="74" yc="114"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="8" w="9" xc="75" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>106</orientation>
+                <box h="23" w="29" xc="74" yc="114"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="919">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="22" w="29" xc="75" yc="114"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="8" w="9" xc="76" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>107</orientation>
+                <box h="23" w="29" xc="75" yc="114"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="920">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="21" w="30" xc="76" yc="113"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="8" w="9" xc="77" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>103</orientation>
+                <box h="23" w="30" xc="76" yc="114"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="921">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="22" w="30" xc="76" yc="114"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="7" w="9" xc="77" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>105</orientation>
+                <box h="23" w="30" xc="76" yc="114"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="922">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="21" w="31" xc="76" yc="114"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="7" w="10" xc="78" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>105</orientation>
+                <box h="22" w="31" xc="76" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="923">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="20" w="31" xc="77" yc="115"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="7" w="10" xc="79" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>105</orientation>
+                <box h="21" w="31" xc="77" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="924">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="20" w="31" xc="77" yc="115"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="7" w="10" xc="80" yc="122"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>105</orientation>
+                <box h="21" w="31" xc="77" yc="115"/>
+                <members>5,6</members>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="925">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="20" w="31" xc="77" yc="115"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+            <object id="6">
+                <orientation>151</orientation>
+                <box h="8" w="10" xc="80" yc="123"/>
+                <appearance>disappear</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">inactive</movement>
+                        <role evaluation="1.0">leaving object</role>
+                        <context evaluation="1.0">immobile</context>
+                        <situation evaluation="1.0">inactive</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist>
+
+            <group id="1">
+                <orientation>105</orientation>
+                <box h="22" w="31" xc="77" yc="116"/>
+                <members>5,6</members>
+                <appearance>disappear</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">active</movement>
+                        <role evaluation="1.0">walkers</role>
+                        <context evaluation="1.0">leaving</context>
+                        <situation evaluation="1.0">leaving object</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </group>
+
+        </grouplist>
+
+    </frame>
+
+    <frame number="926">
+
+        <objectlist>
+
+            <object id="5">
+                <orientation>152</orientation>
+                <box h="20" w="31" xc="77" yc="115"/>
+                <appearance>visible</appearance>
+                <hypothesislist>
+                    <hypothesis evaluation="1.0" id="1" prev="1.0">
+                        <movement evaluation="1.0">walking</movement>
+                        <role evaluation="1.0">walker</role>
+                        <context evaluation="1.0">walking</context>
+                        <situation evaluation="1.0">moving</situation>
+                    </hypothesis>
+                 </hypothesislist>
+            </object>
+
+        </objectlist>
+
+        <grouplist/>
+
+    </frame>
+
+</dataset>
