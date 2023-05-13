@@ -25,7 +25,7 @@ file_list.append(input_caviar_meeting1_file_path)
 # file_list.append(input_caviar_meeting3_file_path)
 # file_list.append(input_caviar_meeting4_file_path)
 # file_list.append(input_caviar_meeting5_file_path)
-# file_list.append(input_caviar_meeting6_file_path)
+#file_list.append(input_caviar_meeting6_file_path)
 
 for file_path in file_list:
     # parse an xml file by name
