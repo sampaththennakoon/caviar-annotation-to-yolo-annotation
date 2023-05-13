@@ -10,3 +10,27 @@ meeting - 2
 browsing - 3
 fighting - 4
 drop down - 5
+
+<context evaluation="1.0">walking</context>
+<context evaluation="1.0">immobile</context> - Removed - 3rd XML
+
+<context evaluation="1.0">drop down</context> - Rest_FallOnFloor
+<situation evaluation="1.0">inactive</situation>
+
+<context evaluation="1.0">immobile</context> - Rest_InChair
+<situation evaluation="1.0">inactive</situation>
+
+<context evaluation="1.0">drop down</context> - Rest_SlumpOnFloor
+<situation evaluation="1.0">inactive</situation>
+
+<context evaluation="1.0">drop down</context> - Rest_WiggleOnFloor
+<situation evaluation="1.0">inactive</situation>
+
+
+
+<context evaluation="1.0">walking</context> - Meet Crowd
+<situation evaluation="1.0">moving</situation>
+
+
+
+
