@@ -18,8 +18,8 @@ input_caviar_walk3_file_path = "Walking/Walk3/wk3gt3.xml"
 output_dir = "/home/samx/Documents/PROJECTS/caviar-annotation-to-yolo-annotation/output"
 
 file_list = []
-# file_list.append(input_caviar_walk1_file_path)
-# file_list.append(input_caviar_walk2_file_path)
+file_list.append(input_caviar_walk1_file_path)
+file_list.append(input_caviar_walk2_file_path)
 file_list.append(input_caviar_walk3_file_path)
 
 for file_path in file_list:
