@@ -1,14 +1,6 @@
-{'immobile', 'fighting', 'walking'}
-{'drop down', 'walking', 'fighting', 'immobile'}
-{'browsing', 'fighting', 'drop down', 'immobile', 'meeting', 'walking'}
-{'drop down', 'walking', 'fighting', 'browsing'}
-{'walking', 'immobile', 'fighting'}
-{'fighting', 'walking', 'immobile'}
-
-walking - 0
-immobile - 1
-meeting - 2
-browsing - 3
-fighting - 4
-drop down - 5
-
+WALKING - 0
+IMMOBILE - 1
+MEETING - 2
+BROWSING - 3
+FIGHTING - 4
+DROPDOWN - 5

@@ -9,7 +9,7 @@ immobile - 1
 meeting - 2
 browsing - 3
 fighting - 4
-drop down - 5
+dropdown - 5
 
 <context evaluation="1.0">walking</context>
 <context evaluation="1.0">immobile</context> - Removed - 3rd XML
