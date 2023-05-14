@@ -39,3 +39,12 @@ drop down - 5
 
 
 
+
+
+
+<movement evaluation="1.0">active</movement>
+<role evaluation="1.0">browser</role>
+<context evaluation="1.0">browsing</context>
+<situation evaluation="1.0">browsing</situation>
+
+Browse_WhileWaiting1 - Excluded due to immobile

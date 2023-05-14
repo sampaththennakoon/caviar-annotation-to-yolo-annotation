@@ -9,6 +9,7 @@ classes['meeting'] = 2
 classes['browsing'] = 3
 classes['fighting'] = 4
 classes['drop down'] = 5
+classes['leaving'] = 6
 
 input_base_dir = "caviar_annotations/"
 input_caviar_resting1_file_path = "Resting/Rest_FallOnFloor/rffgt1.xml"

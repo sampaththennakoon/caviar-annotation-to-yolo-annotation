@@ -9,6 +9,7 @@ classes['meeting'] = 2
 classes['browsing'] = 3
 classes['fighting'] = 4
 classes['drop down'] = 5
+classes['leaving'] = 6
 
 input_base_dir = "caviar_annotations/"
 input_caviar_browse1_file_path = "Browsing/Browse1/br1gt1.xml"
@@ -20,11 +21,11 @@ input_caviar_browse6_file_path = "Browsing/Browse_WhileWaiting2/bww2gt1.xml"
 output_dir = "/home/samx/Documents/PROJECTS/caviar-annotation-to-yolo-annotation/output"
 
 file_list = []
-file_list.append(input_caviar_browse1_file_path)
-file_list.append(input_caviar_browse2_file_path)
-file_list.append(input_caviar_browse3_file_path)
-file_list.append(input_caviar_browse4_file_path)
-file_list.append(input_caviar_browse5_file_path)
+# file_list.append(input_caviar_browse1_file_path)
+# file_list.append(input_caviar_browse2_file_path)
+# file_list.append(input_caviar_browse3_file_path)
+# file_list.append(input_caviar_browse4_file_path)
+# file_list.append(input_caviar_browse5_file_path)
 file_list.append(input_caviar_browse6_file_path)
 
 for file_path in file_list:
@@ -61,7 +62,18 @@ for file_path in file_list:
                 bbox_string = " ".join([str(x) for x in yolo_bbox])
 
                 hypothesis_one = obj.getElementsByTagName("hypothesis")[0]
-                index = classes[hypothesis_one.getElementsByTagName("context")[0].firstChild.data]
+                movement = hypothesis_one.getElementsByTagName("movement")[0].firstChild.data
+                role = hypothesis_one.getElementsByTagName("role")[0].firstChild.data
+                context = hypothesis_one.getElementsByTagName("context")[0].firstChild.data
+                situation = hypothesis_one.getElementsByTagName("situation")[0].firstChild.data
+
+                if context == 'browsing' and (movement == 'active' or movement == 'inactive'):
+                    index = classes[context]
+                elif context == 'browsing' and movement == 'walking' and situation == 'moving':
+                    index = classes['walking']
+                else:
+                    index = classes[context]
+
                 result.append(f"{index} {bbox_string}")
 
         if group_one is not None:
