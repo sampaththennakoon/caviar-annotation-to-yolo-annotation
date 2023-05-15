@@ -1,6 +1,9 @@
 from xml.dom import minidom
 import os
 
+image_width = 384
+image_height = 288
+
 # classes definition
 classes = dict()
 classes['walking'] = 0
@@ -20,13 +23,18 @@ input_caviar_browse5_file_path = "Browsing/Browse_WhileWaiting1/bww1gt1.xml"
 input_caviar_browse6_file_path = "Browsing/Browse_WhileWaiting2/bww2gt1.xml"
 output_dir = "/home/samx/Documents/PROJECTS/caviar-annotation-to-yolo-annotation/output"
 
+def safe_division(x, y):
+    if y == 0:
+        return 0
+    return round(x / y, 4)
+
 file_list = []
-# file_list.append(input_caviar_browse1_file_path)
+file_list.append(input_caviar_browse1_file_path)
 # file_list.append(input_caviar_browse2_file_path)
 # file_list.append(input_caviar_browse3_file_path)
 # file_list.append(input_caviar_browse4_file_path)
 # file_list.append(input_caviar_browse5_file_path)
-file_list.append(input_caviar_browse6_file_path)
+# file_list.append(input_caviar_browse6_file_path)
 
 for file_path in file_list:
     # parse an xml file by name

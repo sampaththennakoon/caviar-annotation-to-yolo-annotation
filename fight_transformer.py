@@ -1,6 +1,9 @@
 from xml.dom import minidom
 import os
 
+image_width = 384
+image_height = 288
+
 # classes definition
 classes = dict()
 classes['walking'] = 0
@@ -28,6 +31,11 @@ file_list.append(input_caviar_fighting_chase_annotation_file_path)
 # file_list.append(input_caviar_fighting_fight_run_away1_annotation_file_path)
 # file_list.append(input_caviar_fighting_fight_run_away2_annotation_file_path)
 
+def safe_division(x, y):
+    if y == 0:
+        return 0
+    return round(x / y, 4)
+
 for file_path in file_list:
     # parse an xml file by name
     xml_file_path = minidom.parse(input_base_dir + file_path)
@@ -52,10 +60,16 @@ for file_path in file_list:
             if obj.getAttribute('id') not in object_numbers:
                 yolo_bbox = []
                 box_element = obj.getElementsByTagName("box")[0]
-                yolo_bbox.append(box_element.getAttribute('xc'))
-                yolo_bbox.append(box_element.getAttribute('yc'))
-                yolo_bbox.append(box_element.getAttribute('w'))
-                yolo_bbox.append(box_element.getAttribute('h'))
+
+                xc = safe_division(int(box_element.getAttribute('xc')), image_width)
+                yc = safe_division(int(box_element.getAttribute('yc')), image_height)
+                w = safe_division(int(box_element.getAttribute('w')), image_width)
+                h = safe_division(int(box_element.getAttribute('h')), image_height)
+
+                yolo_bbox.append(xc)
+                yolo_bbox.append(yc)
+                yolo_bbox.append(w)
+                yolo_bbox.append(h)
                 bbox_string = " ".join([str(x) for x in yolo_bbox])
 
                 hypothesis_one = obj.getElementsByTagName("hypothesis")[0]
@@ -66,10 +80,17 @@ for file_path in file_list:
         hypothesis_context = hypothesis_one.getElementsByTagName('context')[0].firstChild.data
         group_box = group_one.getElementsByTagName('box')[0]
         yolo_group_bbox = []
-        yolo_group_bbox.append(group_box.getAttribute('xc'))
-        yolo_group_bbox.append(group_box.getAttribute('yc'))
-        yolo_group_bbox.append(group_box.getAttribute('w'))
-        yolo_group_bbox.append(group_box.getAttribute('h'))
+
+        xc = safe_division(int(group_box.getAttribute('xc')), image_width)
+        yc = safe_division(int(group_box.getAttribute('yc')), image_height)
+        w = safe_division(int(group_box.getAttribute('w')), image_width)
+        h = safe_division(int(group_box.getAttribute('h')), image_height)
+
+        yolo_group_bbox.append(xc)
+        yolo_group_bbox.append(yc)
+        yolo_group_bbox.append(w)
+        yolo_group_bbox.append(h)
+
         bbox_string = " ".join([str(x) for x in yolo_group_bbox])
         index = classes[hypothesis_context]
         result.append(f"{index} {bbox_string}")
